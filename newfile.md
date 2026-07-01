@@ -1,1 +1,1 @@
-newfileを作成
+newfileを作成しました
